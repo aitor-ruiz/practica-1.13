@@ -1,0 +1,45 @@
+/* Estilo general */
+
+html{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #F4C2C2;
+    color: whitesmoke;
+}
+
+
+/* header */
+
+#cabecera{
+    text-align: center;
+    font-size: 60px;
+}
+
+
+/* nav */
+
+/* Color, tamaño y demás a los enlaces del menú */
+
+a{
+    text-decoration: none;
+    color:whitesmoke;
+    font-size: 25px;
+    font-weight: 600;
+}
+ul{
+   list-style: none;
+   
+}
+
+/* Posicionar los enlaces en cada lado  */
+.centro {
+    text-align: center;
+}
+
+.derecha{
+    text-align: right;
+}
+
+img {
+    fill:whitesmoke;
+}
+
