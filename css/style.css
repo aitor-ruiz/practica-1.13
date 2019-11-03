@@ -1,4 +1,4 @@
-/* Reset CSS */
+/* Reseteo del CSS */
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -49,14 +49,11 @@ table {
 	border-spacing: 0;
 }
 
+
 /* Estilo general */
 
 html{
     font-family: 'Open Sans', sans-serif;
-    
-}
-
-body{
     background-color: #F4C2C2;
     color: whitesmoke;
 }
@@ -65,9 +62,8 @@ body{
 /* header */
 
 #cabecera{
-    background-color: #F4C2C2;
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     padding: 30px;
 }
 
@@ -75,7 +71,6 @@ body{
 /* nav */
 
 nav {
-    background-color: #F4C2C2;
     padding: 30px;
 }
 
@@ -83,7 +78,7 @@ nav {
 
 nav a{
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 600;
     color:whitesmoke;
 }
@@ -106,12 +101,12 @@ nav ul{
 footer{
     color:  #F4C2C2;
     background-color: whitesmoke;
-    padding: 60px 30px;
-    font-weight: 600;
+    padding: 30px 30px;
+    font-size: 15px;
 }
 
 footer a {
     text-decoration: none;
     color: #F4C2C2;
-    font-weight: 800;
+    font-weight: 600;
 }
