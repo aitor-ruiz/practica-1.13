@@ -13,7 +13,7 @@ main hr {
     padding: 0px;
 }
 
-ul{
+li{
     float: left;
 }
 a{
@@ -26,4 +26,13 @@ nav{
 
 main{
     padding-bottom: 30px;;
+}
+
+.imagenes {
+    text-align: center;
+    padding: 60px 0px 60px 0px;
+}
+
+img{
+    margin: 0px 5px;
 }
